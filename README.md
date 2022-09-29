@@ -8,7 +8,7 @@ Dennis Lam
 <br>
 ![](images/activity3.jpg)
 <br>
-**Activity 3**
+**Activity 4**
 <br>
 ![](images/activity4a.jpg)
 <br>
