@@ -1,3 +1,6 @@
 Dennis Lam 
 <br>
-**Activity 1**
+**Activity 2**
+<br>
+![](images/activity2.jpg)
+
