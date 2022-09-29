@@ -7,5 +7,11 @@ Dennis Lam
 **Activity 3**
 <br>
 ![](images/activity3.jpg)
+<br>
+**Activity 3**
+<br>
+![](images/activity4a.jpg)
+<br>
+![](images/activity4b.jpg)
 
 
